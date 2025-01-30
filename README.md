@@ -1,13 +1,11 @@
 # Planter :seedling: 
 
----
 ## About the Team
 We are a team of 4 members working together on this project:
 | Sarahana B. | Hannah L. | Al-Janat O. | Ethan W. |
 |-------------|-----------|-------------|----------|
 | **Role 1**  | **Role 2**| **Role 3**  | **Role 4**|
 
----
 ## Project Overview
 **What are we building?**  
 This project provides a planner and guidance system for plant care, helping users track when to water their plants. Initially designed for houseplants, the application will have the structure to later expand to support small garden management and advanced plant care.
@@ -18,7 +16,6 @@ This project is for plant owners looking for an easy way to manage their plant c
 **Why are we doing this?**  
 Our team is passionate to develop this application and saw a need for a better plant care management tool. We aim to simplify tracking watering schedules and care routines for houseplants and small gardens, helping users keep their plants healthy with ease.
 
----
 ## Table of Contents
   - [General Information](#general-information)
   - [Technologies Used](#technologies-used)
@@ -31,13 +28,11 @@ Our team is passionate to develop this application and saw a need for a better p
   - [Acknowledgements](#acknowledgements)
 <!-- * [License](#license) -->
 
----
 ## General Information
- ![App Logo](lib/fillerLogo.png){width=256 height=241}
+ ![App Logo](lib/fillerLogo.png)
 
  >Optional: what’s missing from your project (expertise, users, additional developers, money☺, etc) that you wish you had.
 
----
 ## Technologies Used
 Below is a list of the technologies we plan to use for our plant care planner and guidance system. Each technology is hyperlinked to its official documentation or a relevant webpage for further reference.
 
@@ -54,7 +49,6 @@ Below is a list of the technologies we plan to use for our plant care planner an
 ### Project Management
 - **[Jira](https://www.atlassian.com/software/jira)**: Jira will be used for project management, helping us track tasks, manage sprints, and ensure timely delivery of features.
 
----
 ## Features
 Below are the initial features we plan to implement in the first sprint. Each feature is described in detail, including its purpose, who or what uses it, and the corresponding user stories.
 
@@ -128,28 +122,24 @@ Below are the initial features we plan to implement in the first sprint. Each fe
   * As a user, I want my plant care data to sync across devices so that I can access it from anywhere.
   * As a plant owner, I want changes made on one device to reflect on all my devices so that I stay up to date.
 
----
+
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 
----
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
----
 ## Usage
 How does one go about using it?
 Provide various use cases and code examples here.
 
 `write-your-code-here`
 
----
 ## Project Status
 Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
 
----
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
